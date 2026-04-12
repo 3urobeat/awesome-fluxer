@@ -12,6 +12,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Libraries](#libraries)
 - [Bots](#bots)
 - [Tools](#tools)
+- [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Theme tools](#theme-tools)
 
